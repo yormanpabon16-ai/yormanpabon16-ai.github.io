@@ -4,7 +4,10 @@
 Objeto Virtual de Aprendizaje (OVA) interactivo que recorre dos temas: **Cibernética** y **Teoría de la Organización**. Cada tema combina páginas de información (con retratos de autores, esquemas y videos), cuatro juegos o ejercicios prácticos con retroalimentación y un quiz final. El menú lateral muestra el avance del estudiante.
 
 ## Autor
-Yorman Alejandro Pabón Arciniegas · Ingeniería en Sistemas · Universidad Simón Bolívar.
+Yorman Alejandro Pabón Arciniegas · Ingeniería en Sistemas · Universidad Simón Bolívar, Campus Cúcuta.
+
+**Asignatura:** Teoría General de Sistemas
+**Docente:** EDDY MARLENE ORTIZ RAMIREZ
 Desarrollo web con asistencia de IA (Claude).
 
 ## Objetivos
